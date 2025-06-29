@@ -7,6 +7,7 @@ This project implements a model-based policy iteration algorithm for an agent na
 ## 📂 Files
 - `RL_policy_iteration.m`: Core algorithm
 - `terrain_shape.m`: 2D surface definition
+- `reawrd.m`: State-action reward function
 
 ## 🚀 Requirements
 - MATLAB R2020+ (no extra toolbox required)
